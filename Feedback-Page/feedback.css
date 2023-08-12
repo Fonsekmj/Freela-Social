@@ -1,5 +1,7 @@
+@import url('https://fonts.googleapis.com/css?family=Lora:400,700,400italic|Oswald:400,700"');
+
 body {
-    font-family: Arial, sans-serif;
+    font-family: Oswald;
     margin: 20px;
 }
 
@@ -9,6 +11,7 @@ body {
     padding: 10px;
     margin-bottom: 10px;
     border-radius: 5px;
+    font-size: large;
 }
 
 .avatar {
